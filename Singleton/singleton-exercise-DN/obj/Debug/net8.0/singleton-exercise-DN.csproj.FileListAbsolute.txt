@@ -1,0 +1,14 @@
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\bin\Debug\net8.0\singleton-exercise-DN.exe
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\bin\Debug\net8.0\singleton-exercise-DN.deps.json
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\bin\Debug\net8.0\singleton-exercise-DN.runtimeconfig.json
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\bin\Debug\net8.0\singleton-exercise-DN.dll
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\bin\Debug\net8.0\singleton-exercise-DN.pdb
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.AssemblyInfoInputs.cache
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.AssemblyInfo.cs
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.csproj.CoreCompileInputs.cache
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.dll
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\refint\singleton-exercise-DN.dll
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.pdb
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\singleton-exercise-DN.genruntimeconfig.cache
+C:\repos\Design Patterns\Singleton\singleton-exercise-DN\obj\Debug\net8.0\ref\singleton-exercise-DN.dll

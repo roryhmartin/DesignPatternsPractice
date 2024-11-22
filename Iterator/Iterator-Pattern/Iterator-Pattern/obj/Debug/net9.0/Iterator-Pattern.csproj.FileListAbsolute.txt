@@ -1,0 +1,14 @@
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\bin\Debug\net9.0\Iterator-Pattern.exe
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\bin\Debug\net9.0\Iterator-Pattern.deps.json
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\bin\Debug\net9.0\Iterator-Pattern.runtimeconfig.json
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\bin\Debug\net9.0\Iterator-Pattern.dll
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\bin\Debug\net9.0\Iterator-Pattern.pdb
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.AssemblyInfoInputs.cache
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.AssemblyInfo.cs
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.csproj.CoreCompileInputs.cache
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.dll
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\refint\Iterator-Pattern.dll
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.pdb
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\Iterator-Pattern.genruntimeconfig.cache
+C:\repos\Design Patterns\Iterator\Iterator-Pattern\Iterator-Pattern\obj\Debug\net9.0\ref\Iterator-Pattern.dll

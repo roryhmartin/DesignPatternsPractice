@@ -1,0 +1,14 @@
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\bin\Debug\net9.0\Factory-Pattern-DN.exe
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\bin\Debug\net9.0\Factory-Pattern-DN.deps.json
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\bin\Debug\net9.0\Factory-Pattern-DN.runtimeconfig.json
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\bin\Debug\net9.0\Factory-Pattern-DN.dll
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\bin\Debug\net9.0\Factory-Pattern-DN.pdb
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.AssemblyInfoInputs.cache
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.AssemblyInfo.cs
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.csproj.CoreCompileInputs.cache
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.dll
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\refint\Factory-Pattern-DN.dll
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.pdb
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\Factory-Pattern-DN.genruntimeconfig.cache
+C:\repos\Design Patterns\Factory\Factory-Pattern-DN\Factory-Pattern-DN\obj\Debug\net9.0\ref\Factory-Pattern-DN.dll

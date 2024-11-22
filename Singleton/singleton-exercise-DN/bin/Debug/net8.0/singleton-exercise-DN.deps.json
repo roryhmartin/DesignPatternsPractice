@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "singleton-exercise-DN/1.0.0": {
+        "runtime": {
+          "singleton-exercise-DN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "singleton-exercise-DN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
